@@ -1,5 +1,6 @@
 python-dotenv
 aiogram==2.25.2
+aiohttp==3.8.4
 requests
 beautifulsoup4
 pymongo
